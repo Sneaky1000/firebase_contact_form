@@ -85,6 +85,19 @@ p {
   border-bottom: 3px solid #22b352;
 }
 
+.infoResults div p {
+  width: 50%;
+  margin: 30px auto;
+  background: rgb(224, 224, 224);
+  padding: 20px;
+  border-bottom: 3px solid lightgray;
+}
+
+select {
+  margin-bottom: 10px;
+  width: 30%;
+}
+
 @media all and (min-width: 1000px) {
   .contact-form {
     width: 40%;

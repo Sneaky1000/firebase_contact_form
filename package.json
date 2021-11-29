@@ -1,0 +1,23 @@
+{
+  "name": "firebase_contact_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sneaky1000/firebase_contact_form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sneaky1000/firebase_contact_form/issues"
+  },
+  "homepage": "https://github.com/Sneaky1000/firebase_contact_form#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
